@@ -1,0 +1,2 @@
+(this["webpackJsonpAli Hassnain"]=this["webpackJsonpAli Hassnain"]||[]).push([[4],{96:function(s,i,n){"use strict";n.r(i),i.default=n.p+"static/media/common-misconceptions-about-payment.e5b2c5dc.md"}}]);
+//# sourceMappingURL=4.0f904ac0.chunk.js.map
