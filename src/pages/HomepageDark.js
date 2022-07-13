@@ -31,7 +31,7 @@ function HomepageDark() {
   return (
     <>
       <Header
-        logoSource="/images/logo.svg"
+        logoSource="/images/logo.png"
         toggleMenu={toggleMenu}
         headerToggler={headerToggler}
       />
@@ -50,10 +50,10 @@ function HomepageDark() {
         <Element name="section-experiences">
           <Experiences />
         </Element>
-        <Element name="section-works">
+        {/* <Element name="section-works">
           <Works />
         </Element>
-        {/* <Element name="section-pricing">
+        <Element name="section-pricing">
           <Pricing />
         </Element>
         <Element name="section-testimoninal">

@@ -45,7 +45,7 @@ function About() {
                 <div className="col-md-6">
                   <p>{aboutContent.content}</p>
                   <div className="mt-3">
-                    <a href="!#" className="btn btn-default">
+                    <a href="/images/Ali_Hassnain's_Resume.pdf" className="btn btn-default" download>
                       Download CV
                     </a>
                   </div>
